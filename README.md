@@ -7,7 +7,7 @@
 [![Followers](https://img.shields.io/github/followers/mohsen-niksirat?label=FOLLOWERS&style=for-the-badge&logo=github&color=8b5cf6)](https://github.com/mohsen-niksirat?tab=followers)
 [![Repos](https://img.shields.io/badge/PUBLIC%20REPOS-21-8b5cf6?style=for-the-badge&logo=github)](https://github.com/mohsen-niksirat?tab=repositories)
 
-[🌐 Portfolio](https://mohsen-niksirat.github.io/Profile/) · [📚 Promptopia](https://mohsen-niksirat.github.io/promptopia/) · [✈️ Telegram](https://t.me/mohsenniksirat)
+[🌐 Portfolio](https://mohsen-niksirat.github.io/Profile/) · [✈️ Telegram](https://t.me/mohsenniksirat)
 
 </div>
 
@@ -15,11 +15,11 @@
 
 ## 🚀 About Me / درباره من
 
-**EN** — I turn ideas into small, complete, *shipped* products. My focus is practical web tools that solve real daily problems: vocabulary learning with spaced repetition, movie discovery, browser utilities, and a gallery of ready-made AI prompts. I work AI-assisted end to end — prompt, build, test, deploy — and I care that everything actually runs in production, not just in demos.
+**EN** — I turn ideas into small, complete, *shipped* products. My focus is practical web tools that solve real daily problems: vocabulary learning with spaced repetition, movie discovery, and browser utilities. I work AI-assisted end to end — prompt, build, test, deploy — and I care that everything actually runs in production, not just in demos.
 
-**FA** — ایده‌ها را به محصولات کوچک، کامل و «تحویل‌شده» تبدیل می‌کنم. تمرکزم روی ابزارهای کاربردی وب است که مسئله‌های واقعی روزمره را حل می‌کنند: یادگیری لغت با تکرار فاصله‌دار، کشف فیلم، ابزارهای مرورگری و گالری پرامپت‌های آماده هوش مصنوعی. کل مسیر را با کمک هوش مصنوعی می‌روم — پرامپت، ساخت، تست، دیپلوی — و برایم مهم است که همه‌چیز واقعاً در پروداکشن کار کند، نه فقط در دمو.
+**FA** — ایده‌ها را به محصولات کوچک، کامل و «تحویل‌شده» تبدیل می‌کنم. تمرکزم روی ابزارهای کاربردی وب است که مسئله‌های واقعی روزمره را حل می‌کنند: یادگیری لغت با تکرار فاصله‌دار، کشف فیلم و ابزارهای مرورگری. کل مسیر را با کمک هوش مصنوعی می‌روم — پرامپت، ساخت، تست، دیپلوی — و برایم مهم است که همه‌چیز واقعاً در پروداکشن کار کند، نه فقط در دمو.
 
-- 🔭 Now: growing **Promptopia** — a bilingual (FA/EN) gallery of 1,300+ ready-made AI prompts
+- 🔭 Now: building **serverless Telegram Mini Apps** and browser-first tools that work offline
 - 🌱 Deep into **AI-assisted development**: prompt engineering, agent workflows, shipping fast without losing quality
 - 💬 Ask me about: JavaScript/TypeScript, vanilla HTML/CSS, spaced repetition (FSRS), Telegram bots, GitHub Pages/Actions
 - ⚡ Fun fact: my repos span a 3D Godot game, a Kotlin Android game, and a Persian family-tree builder
@@ -47,10 +47,6 @@
 ### 📚 [Readner / Leitner-Pro-Max](https://github.com/mohsen-niksirat/Leitner-Pro-Max)
 Smart vocabulary learning with **FSRS spaced repetition**, PDF reader and a 4,500-word CEFR dataset — learn English from real texts you read.
 `JavaScript` · `FSRS` · `PDF`
-
-### 🎨 [Promptopia](https://github.com/mohsen-niksirat/promptopia) — [live](https://mohsen-niksirat.github.io/promptopia/)
-A bilingual (FA/EN) gallery of **1,300+ ready-made AI image & text prompts** with per-category browsing, favorites, themes, PWA offline support and one-click "create with this prompt" into Gemini/ChatGPT.
-`HTML` · `PWA` · `i18n`
 
 ### 🎬 [CineScore](https://github.com/mohsen-niksirat/CineScore) · [Cinema Sermovie](https://github.com/mohsen-niksirat/Cinema)
 Movie rating/scoring system and a browsing & discovery platform — clean UIs over movie APIs.
@@ -109,7 +105,6 @@ Telegram quiz bot in TypeScript — CEFR-based questions, scoring and progress.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohsen--niksirat.github.io-8b5cf6?style=for-the-badge&logo=github)](https://mohsen-niksirat.github.io/Profile/)
 [![Telegram](https://img.shields.io/badge/Telegram-@mohsenniksirat-26a5e4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mohsenniksirat)
-[![Promptopia](https://img.shields.io/badge/🎨_Promptopia-live_demo-d946ef?style=for-the-badge)](https://mohsen-niksirat.github.io/promptopia/)
 
 </div>
 
