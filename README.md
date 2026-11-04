@@ -5,7 +5,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=mohsen-niksirat&label=PROFILE+VIEWS&color=8b5cf6&style=for-the-badge)](https://github.com/mohsen-niksirat)
 [![Followers](https://img.shields.io/github/followers/mohsen-niksirat?label=FOLLOWERS&style=for-the-badge&logo=github&color=8b5cf6)](https://github.com/mohsen-niksirat?tab=followers)
-[![Repos](https://img.shields.io/badge/PUBLIC%20REPOS-21-8b5cf6?style=for-the-badge&logo=github)](https://github.com/mohsen-niksirat?tab=repositories)
+[![Repos](https://img.shields.io/badge/PUBLIC%20REPOS-46-8b5cf6?style=for-the-badge&logo=github)](https://github.com/mohsen-niksirat?tab=repositories)
 
 [🌐 Portfolio](https://mohsen-niksirat.github.io/Profile/) · [✈️ Telegram](https://t.me/mohsenniksirat)
 
@@ -56,7 +56,7 @@ Movie rating/scoring system and a browsing & discovery platform — clean UIs ov
 Build flashcards from **any text or PDF** — turn reading material into a spaced-repetition deck automatically.
 `HTML` · `IndexedDB`
 
-### 🎮 [Horde Survival](https://github.com/mohsen-niksirat/HordeSurvival) (+ [3D version](https://github.com/mohsen-niksirat/Horde_Survival_3D))
+### 🎮 [Horde Survival](https://github.com/mohsen-niksirat/HordeSurvival) (+ [3D version](https://github.com/mohsen-niksirat/Horde_Survival_3D_Godot))
 Kotlin Android survival game and its 3D Godot sibling — game logic, balancing and mobile performance.
 `Kotlin` · `GDScript`
 
@@ -64,7 +64,15 @@ Kotlin Android survival game and its 3D Godot sibling — game logic, balancing 
 Telegram quiz bot in TypeScript — CEFR-based questions, scoring and progress.
 `TypeScript` · `Telegram API`
 
-<p align="center"><a href="https://mohsen-niksirat.github.io/Profile/"><b>→ See the full portfolio (16 projects)</b></a></p>
+### 🎛️ [MCP Studio](https://github.com/mohsen-niksirat/Mcp-Studio)
+Visual IDE & testing studio for Model Context Protocol (MCP) servers — connect, inspect tools and run calls interactively.
+`TypeScript` · `MCP` · `AI`
+
+### 🔀 [9router](https://github.com/mohsen-niksirat/9router_TG_Bot)
+Multi-provider AI gateway & Telegram Mini App — route and load-balance API keys across Gemini, Groq, DeepSeek & OpenAI.
+`JavaScript` · `Telegram` · `AI`
+
+<p align="center"><a href="https://mohsen-niksirat.github.io/Profile/"><b>→ See the full portfolio (44 projects)</b></a></p>
 
 ---
 
